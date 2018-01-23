@@ -2,4 +2,5 @@ this is a test
 
 2018-01-19 9:52 the file has been changed first.
 2018-01-19 9:57 the file has been changed second.
-2018-01-22 15:58 增加了一行
+2018-01-22 14:58 增加了一行
+2018-01-22 15:00 增加了一行
